@@ -5,5 +5,5 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKIM-TABLE-NEXT%2Fhit-counter&count_bg=%23389EAC&title_bg=%23000000&icon=bitrise.svg&icon_color=%23FFFFFF&title=%5E_%5E&edge_flat=true)](https://hits.seeyoufarm.com)<p align='left'>개발하게 해주세요 </p>
 ### STATS
-[![Github stats](https://github-readme-stats.vercel.app/api?username=KIM-TABLE-NEXT&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/KIM-TABLE-NEXT/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIM-TABLE-NEXT&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIM-TABLE-NEXT&layout=compact)](https://github.com/KIM-TABLE-NEXT/github-readme-stats)
