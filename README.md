@@ -8,7 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIM-TABLE-NEXT&show_icons=true&theme=ambient_gradient)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIM-TABLE-NEXT&layout=compact)](https://github.com/KIM-TABLE-NEXT/github-readme-stats)
 <div align=center><h1>📚 STACKS</h1></div>
-![Programmers Badge](https://raw.githubusercontent.com/{KIM-TABLE-NEXT}/Programmers_Badge_Generator/main/result/result.svg)
+![Programmers Badge](https://raw.githubusercontent.com/KIM-TABLE-NEXT/Programmers_Badge_Generator/main/result/result.svg)
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
